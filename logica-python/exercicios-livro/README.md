@@ -1,25 +1,13 @@
-# Curso Python 3 - Luiz Otávio Miranda
+# Exercícios - Entendendo Algoritmos
 
-Este diretório contém exercícios, exemplos e projetos desenvolvidos durante o curso **Python 3 do básico ao avançado**, ministrado por Luiz Otávio Miranda na Udemy.
+Este diretório contém implementações e exercícios baseados no livro **Entendendo Algoritmos** de Aditya Bhargava.
 
 ## Conteúdo
 
-- Exercícios das aulas
-- Exemplos práticos
-- Projetos desenvolvidos durante o curso
-- Anotações e testes
-
-## Status
-
-Em andamento.
+- Implementações dos algoritmos apresentados no livro
+- Exercícios práticos
+- Testes e experimentos
 
 ## Objetivo
 
-Desenvolver domínio completo da linguagem Python, incluindo:
-
-- Lógica aplicada em Python
-- Funções
-- Dicionários
-- Programação orientada a objetos
-- Manipulação de arquivos
-- Desenvolvimento de aplicações reais
+Fortalecer o pensamento lógico e o entendimento de algoritmos fundamentais.
