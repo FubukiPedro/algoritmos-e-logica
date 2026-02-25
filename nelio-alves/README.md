@@ -1,37 +1,71 @@
-# Lógica de Programação
+# 📘 Algoritmos e Lógica de Programação
 
-Este repositório contém exercícios desenvolvidos durante meus estudos de lógica de programação.
+Repositório dedicado aos estudos do curso **"Algoritmos e Lógica de Programação - O Curso Completo"**, com foco na construção de uma base sólida em lógica computacional e desenvolvimento de algoritmos.
 
-## 📚 Conteúdos abordados
+O curso aborda desde os fundamentos utilizando VisualG até a implementação dos mesmos conceitos nas principais linguagens do mercado.
 
+---
+
+## 🎯 Objetivo
+
+Desenvolver raciocínio lógico e compreensão profunda dos principais conceitos da programação, aplicando-os em múltiplas linguagens para consolidar aprendizado e versatilidade.
+
+---
+
+## 📚 Conteúdo Abordado
+
+### 🔹 Fundamentos de Programação
+- Introdução à lógica de programação
 - Estrutura sequencial
-- Estrutura condicional
-- Estrutura repetitiva
+- Estruturas condicionais
+- Estruturas repetitivas
 - Vetores
 - Matrizes
 
-## 💻 Linguagens utilizadas
+---
 
-- Visualg
-- Python
+### 🔹 Ferramentas
+- Instalação e configuração de ambientes
+- Uso do VisualG para construção inicial de algoritmos
+
+---
+
+### 🔹 Implementação em Linguagens
+
+Os conceitos de lógica são aplicados nas seguintes linguagens:
 - C
 - C++
 - Java
 - C#
+- Python
 
-## 🎯 Objetivo
+---
 
-Praticar e fortalecer os fundamentos da programação, desenvolvendo lógica, resolução de problemas e pensamento computacional.
+## 📂 Estrutura do Repositório
 
-## 📁 Organização
+nelio-alves/
+- ├── visualg/
+- ├── c/
+- ├── cpp/
+- ├── java/
+- ├── csharp/
+- └── python/
 
-Os exercícios estão organizados por linguagem e por tipo de estrutura:
+Cada pasta contém exercícios e implementações práticas desenvolvidas ao longo do curso.
 
-- estrutura-sequencial
-- estrutura-condicional
-- estrutura-repetitiva
-- vetores
-- matrizes
+---
 
-## 👨‍💻 Autor
-Pedro Henrique
+## 🧠 Competências Desenvolvidas
+
+- Pensamento lógico estruturado
+- Resolução de problemas
+- Tradução de algoritmos para diferentes linguagens
+- Compreensão de estruturas fundamentais da programação
+- Base sólida para estruturas de dados e desenvolvimento backend
+
+---
+
+## 🚀 Status
+
+📌 Curso concluído
+📌 Exercícios organizados por linguagem  
